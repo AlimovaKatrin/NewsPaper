@@ -1,0 +1,48 @@
+#Newspaper{
+    background: transparent url("https://sniker.ua/img/brand/111/anons/b_111_25628.jpg") no-repeat scroll 90% 0%;
+    border: 3px solid #333333;
+    columns: 12em;
+}
+.grid-container {
+    display: grid;
+    grid-gap: 40px;
+    padding: 20px;
+    
+  }
+
+.grid-item1{
+    display: grid;
+    text-align: center;
+    
+
+}
+ h1{
+    color: #333333;
+    background: #FFFFFF;
+    text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
+    color: #333333;
+    background: #FFFFFF;
+    font-size: 100px;
+    margin-inline-start: 0px;
+    margin-inline-end: 100px;
+ }
+fieldset{
+    border: 4px solid #333333;
+    border-radius: 0px 0px 39px 0px;
+
+}
+.RegistrationForm{
+    display: grid;
+    grid-column: 1 / span 1;
+    text-align: left;
+    margin-top: 20px;
+    margin-right: 1600px;
+
+}
+
+#col_short1 {
+    columns: 50em;
+    
+  }
+
+ 
